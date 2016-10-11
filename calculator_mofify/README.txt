@@ -1,4 +1,4 @@
-				Basic CAlculator
+				Basic Calculator
 
 	Functions used in Calculator
 
@@ -20,26 +20,26 @@
 SAMPLE INPUT  and OUTPUT :
 
 1)
-	click : 9	(9 will shown on the div class calculatorhead text box) 
-	click : *	( * will not shown on the text box)
-	click: 8     ( 8 will shown on the text box)
+	click : 9   (9 will shown on the div class calculatorhead text box) 
+	click : *   ( * will not shown on the text box)
+	click: 8    ( 8 will shown on the text box)
 	click: +    (result=72 will shown on the text box)
 	click: 8    (8 will shown on the text box )
-	click: =   (72(current result) + 8=80 will shown on the text box)
+	click: =    (72(current result) + 8=80 will shown on the text box)
 		
 2)
 	click : 96  (96 will shown on the text box)
-	click : /	(/ will  not shown on the text box)
-	click : 5    (5 will shown on the text box)
-	click : = (result=19.2 will shown on the text box)
+	click : /   (/ will  not shown on the text box)
+	click : 5   (5 will shown on the text box)
+	click : =   (result=19.2 will shown on the text box)
 
 3)
-	click : 98 (98 will shown on the text box)
+	click : 98  (98 will shown on the text box)
 	click : -   (- will  not shown on the text box )
-	click : 67 (67 will  shown on the text box)
-	click : + (result=31 will shown on text box)
-	click : 56 (56 will shown on the text box)
-	click : =  (result =87 will shown on the text box)
-	click : c (refreshes the text box)
+	click : 67  (67 will  shown on the text box)
+	click : +   (result=31 will shown on text box)
+	click : 56  (56 will shown on the text box)
+	click : =   (result =87 will shown on the text box)
+	click : c   (refreshes the text box)
 
 		
